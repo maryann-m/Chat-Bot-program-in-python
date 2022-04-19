@@ -1,0 +1,1 @@
+The program uses a cosine similarity to compute the relative distance between a query (the request) and sentences contained in a corpus.
